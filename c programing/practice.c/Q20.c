@@ -1,3 +1,5 @@
+//print -n to n with increase 0.5
+
 #include<stdio.h>
 int main(){
 int n;
@@ -9,4 +11,5 @@ for(i=-n;i<=n;i=i+0.50){
 }
 
     return 0;
+
 }
